@@ -1,0 +1,9 @@
+c:\users\trader\documents\visual studio 2015\Projects\NumbertoPNG\NumbertoPNG\bin\Debug\NumbertoPNG.exe.config
+c:\users\trader\documents\visual studio 2015\Projects\NumbertoPNG\NumbertoPNG\obj\Debug\NumbertoPNG.csprojResolveAssemblyReference.cache
+c:\users\trader\documents\visual studio 2015\Projects\NumbertoPNG\NumbertoPNG\obj\Debug\NumbertoPNG.Form1.resources
+c:\users\trader\documents\visual studio 2015\Projects\NumbertoPNG\NumbertoPNG\obj\Debug\NumbertoPNG.Properties.Resources.resources
+c:\users\trader\documents\visual studio 2015\Projects\NumbertoPNG\NumbertoPNG\obj\Debug\NumbertoPNG.csproj.GenerateResource.Cache
+c:\users\trader\documents\visual studio 2015\Projects\NumbertoPNG\NumbertoPNG\bin\Debug\NumbertoPNG.exe
+c:\users\trader\documents\visual studio 2015\Projects\NumbertoPNG\NumbertoPNG\bin\Debug\NumbertoPNG.pdb
+c:\users\trader\documents\visual studio 2015\Projects\NumbertoPNG\NumbertoPNG\obj\Debug\NumbertoPNG.exe
+c:\users\trader\documents\visual studio 2015\Projects\NumbertoPNG\NumbertoPNG\obj\Debug\NumbertoPNG.pdb
